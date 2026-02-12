@@ -5,7 +5,6 @@
 ; Header 
   processor 6502
   include "vcs.h"
-  include "macro.h"
 
 ; Constants
 GAMEBOARD_BASE_BGCOLOR = $D0
